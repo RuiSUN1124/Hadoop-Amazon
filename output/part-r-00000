@@ -1,0 +1,7 @@
+book11 [book17, book18, cd30, book14, dvd21, book19]	6
+book14 [cd30, book11, book17, dvd21, book19, book18]	3
+book17 [book11, book18, cd30, book14, dvd21, book19]	6
+book18 [book11, book17, dvd21, book19, cd30, book14]	4
+book19 [dvd21, book18, cd30, book11, book17, book14]	2
+cd30 [book14, book11, book17, dvd21, book19, book18]	3
+dvd21 [book11, book17, book19, book18, cd30, book14]	2

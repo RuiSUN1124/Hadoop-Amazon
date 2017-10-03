@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="hadoopamazon">
+    <output-path>$PROJECT_DIR$/../Hadoop-Amazon/out/artifacts/hadoopamazon/</output-path>
+    <root id="archive" name="hadoopamazon.jar">
+      <element id="module-output" name="Hadoop-Amazon" />
+    </root>
+  </artifact>
+</component>
