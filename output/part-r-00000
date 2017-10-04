@@ -1,0 +1,7 @@
+book11	book17:6 book18:4 dvd21:2 book19:1 
+book14	cd30:3 book17:2 book18:1 
+book17	book11:6 book18:3 dvd21:2 book19:1 
+book18	book11:4 book17:3 book19:2 book14:1 
+book19	book18:2 book14:1 
+cd30	book14:3 book17:2 book18:1 
+dvd21	book18:2 book14:1 

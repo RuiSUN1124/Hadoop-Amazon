@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0c375a9-a662-424a-a069-40d188e16ec1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Hadoop-Amazon/src/com/hadoop/amazon/MyMapWritable2.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Hadoop-Amazon/output/._SUCCESS.crc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Hadoop-Amazon/output/.part-r-00000.crc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Hadoop-Amazon/output/_SUCCESS" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Hadoop-Amazon/output/part-r-00000" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Hadoop-Amazon/out/artifacts/hadoopamazon/hadoopamazon.jar" afterPath="$PROJECT_DIR$/../Hadoop-Amazon/out/artifacts/hadoopamazon/hadoopamazon.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Hadoop-Amazon/out/production/Hadoop-Amazon/com/hadoop/amazon/HadoopAmazon$IntSumReducer.class" afterPath="$PROJECT_DIR$/../Hadoop-Amazon/out/production/Hadoop-Amazon/com/hadoop/amazon/HadoopAmazon$IntSumReducer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Hadoop-Amazon/out/production/Hadoop-Amazon/com/hadoop/amazon/HadoopAmazon$TokenizerMapper.class" afterPath="$PROJECT_DIR$/../Hadoop-Amazon/out/production/Hadoop-Amazon/com/hadoop/amazon/HadoopAmazon$TokenizerMapper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Hadoop-Amazon/out/production/Hadoop-Amazon/com/hadoop/amazon/HadoopAmazon$ValueComparator.class" afterPath="$PROJECT_DIR$/../Hadoop-Amazon/out/production/Hadoop-Amazon/com/hadoop/amazon/HadoopAmazon$ValueComparator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Hadoop-Amazon/out/production/Hadoop-Amazon/com/hadoop/amazon/HadoopAmazon.class" afterPath="$PROJECT_DIR$/../Hadoop-Amazon/out/production/Hadoop-Amazon/com/hadoop/amazon/HadoopAmazon.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Hadoop-Amazon/out/production/Hadoop-Amazon/com/hadoop/amazon/MyMapWritable.class" afterPath="$PROJECT_DIR$/../Hadoop-Amazon/out/production/Hadoop-Amazon/com/hadoop/amazon/MyMapWritable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Hadoop-Amazon/out/production/Hadoop-Amazon/com/hadoop/amazon/MyMapWritable2.class" afterPath="$PROJECT_DIR$/../Hadoop-Amazon/out/production/Hadoop-Amazon/com/hadoop/amazon/MyMapWritable2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Hadoop-Amazon/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Hadoop-Amazon/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Hadoop-Amazon/input/001" afterPath="$PROJECT_DIR$/../Hadoop-Amazon/input/001" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Hadoop-Amazon/src/com/hadoop/amazon/HadoopAmazon.java" afterPath="$PROJECT_DIR$/../Hadoop-Amazon/src/com/hadoop/amazon/HadoopAmazon.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Hadoop-Amazon/src/com/hadoop/amazon/MyMapWritable.java" afterPath="$PROJECT_DIR$/../Hadoop-Amazon/src/com/hadoop/amazon/MyMapWritable.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Hadoop-Amazon/src/com/hadoop/amazon/MyMapWritable2.java" afterPath="$PROJECT_DIR$/../Hadoop-Amazon/src/com/hadoop/amazon/MyMapWritable2.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../Hadoop-Amazon/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/../Hadoop-Amazon/input/001">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
-              <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -85,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyMapWritable2.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MyMapWritable2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Hadoop-Amazon/src/com/hadoop/amazon/MyMapWritable2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
-              <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+            <state relative-caret-position="334">
+              <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,7 +86,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="part-r-00000" pinned="false" current-in-tab="true">
+      <file leaf-file-name="part-r-00000" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Hadoop-Amazon/output/part-r-00000">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
@@ -178,6 +167,22 @@
             <path>
               <item name="Hadoop-Amazon" type="b2602c69:ProjectViewProjectNode" />
               <item name="Hadoop-Amazon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hadoop-Amazon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hadoop-Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="input" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hadoop-Amazon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hadoop-Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hadoop-Amazon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hadoop-Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="amazon" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -509,14 +514,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Hadoop-Amazon/input/001">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Hadoop-Amazon/src/com/hadoop/amazon/MyMapWritable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -540,21 +537,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Hadoop-Amazon/src/com/hadoop/amazon/MyMapWritable2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Hadoop-Amazon/output/part-r-00000">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Hadoop-Amazon/input/001">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Hadoop-Amazon/src/com/hadoop/amazon/MyMapWritable2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

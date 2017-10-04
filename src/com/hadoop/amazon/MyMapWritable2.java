@@ -16,7 +16,7 @@ class MyMapWritable2 extends SortedMapWritable {
 
         Set<WritableComparable> keySet = this.keySet();
         for (Object key : keySet) {
-            result.insert(0,key+":"+this.get(key)+" ");
+            result.insert(0,this.get(key)+":"+key+" ");
         }
         return result.toString();
     }
