@@ -14,3 +14,6 @@
 <ItemBought> [<The mostly recommended Item:frequency1> <The 2nd mostly recommended Item:frequency2>...]
 ```
 For example:
+```
+book11	book17:6 book18:4 dvd21:2 book19:1 
+```
